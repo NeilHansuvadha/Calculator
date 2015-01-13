@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Calculator!", "Calculator!\Calculator!.shproj", "{92FC13F5-3B2A-4159-ABE4-A14D24781905}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator!.Android", "Android\Calculator!.Android.csproj", "{F4C55184-BA6A-4827-AB9F-A7B3C838C3ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4C55184-BA6A-4827-AB9F-A7B3C838C3ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4C55184-BA6A-4827-AB9F-A7B3C838C3ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4C55184-BA6A-4827-AB9F-A7B3C838C3ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4C55184-BA6A-4827-AB9F-A7B3C838C3ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Android\Calculator!.Android.csproj
+	EndGlobalSection
+EndGlobal
